@@ -1,0 +1,36 @@
+.cardbox-item {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+img.img-book-cover {
+    height: 200px;
+    width: 200px;
+    object-fit: cover;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+img.img-book-detail {
+    height: 540px !important;
+    width: auto !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cover-container {
+    width: auto!important;
+    object-fit: cover;
+    text-align: center;
+}
+
+.storybox p {
+    font-size: 16px;
+}
+
+span.location {
+    font-size: 16px;
+    margin-left: 10px;
+    padding: 5px;
+}
